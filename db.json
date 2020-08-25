@@ -2,18 +2,87 @@
   "posts": [
     {
       "id": 1,
-      "title": "Post 1",
-      "price": "200000"
+      "title": "Rolex",
+      "price": "2000000",
+      "img": "https://content.rolex.com/dam/homepage/hss/watches/professional-watches/yacht-master/homepage-yacht-master-42_m226659-0002-posterframe.jpg",
+      "desc": "Rolex SA is a Swiss luxury watch manufacturer based in Geneva, Switzerland. Originally founded as Wilsdorf and Davis by Hans Wilsdorf and Alfred Davis in London, England in 1905, the company registered Rolex as the brand name of its watches in 1908 and became Rolex Watch Co. Ltd. in 1915."
     },
     {
       "id": 2,
-      "title": "Post 2",
-      "price": "214000"
+      "title": "Sofa",
+      "price": "214000",
+      "img": "https://images-na.ssl-images-amazon.com/images/I/813ZLCapA5L._SX425_.jpg",
+      "desc": " Spaces Therapy Neptune 3 Seater Fabric Sofa Cum Bed for Living (Black & Grey) For Hall Living Tv Guest Room Home Furniture Sofas Trending Shape With Comfort Designed For Home Star Hotels & Corporate Office."
     },
     {
       "id": 3,
-      "title": "Post 3",
-      "price": "210000"
+      "title": "SmartPhone",
+      "price": "14000",
+      "img": "https://m.media-amazon.com/images/I/41mTHPrY0uL._AC_SS350_.jpg",
+      "desc": "The Nokia 7.2 is a Nokia branded Android smartphone announced on 6 September at IFA 2019 launching at $349/£249 for the cheapest model"
+    },
+    {
+      "id": 4,
+      "title": "Audi",
+      "price": "14000000",
+      "img": "https://www.audi.com/content/dam/gbp2/experience-audi/models-and-technology/concept-cars/audi-e-tron-gt-concept/1920x1080_A1814532_large.jpg?imwidth=792&imdensity=1",
+      "desc": "Audi AG is a German automobile manufacturer that designs, engineers, produces, markets and distributes luxury vehicles. Audi is a member of the Volkswagen Group and has its roots at Ingolstadt, Bavaria, Germany."
+    },
+    {
+      "id": 5,
+      "title": "Dell Laptop",
+      "price": "35000",
+      "img": "https://icdn2.digitaltrends.com/image/digitaltrends/dell-xps-13-screen-lid1-1200x630-c-ar1.91.jpg",
+      "desc": "Explore the slim mobility of Dell XPS laptops and convertible 2-in-1 PCs, which are crafted with highest quality materials and a backlit keyboard."
+    },
+    {
+      "id": 6,
+      "title": "Furniture",
+      "price": "140000",
+      "img": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/amazon-rivet-furniture-1533048038.jpg?crop=1.00xw:0.502xh;0,0.423xh&resize=1200:*",
+      "desc": "Looking for quality and world-class furniture for home? Amazon India offers you a wide collection of bedroom, living room, outdoor, storage, kitchen and dining."
+    },
+    {
+      "id": 7,
+      "title": "Adidas",
+      "price": "14000",
+      "img": "https://www.allroundercricket.com/media/catalog/product/cache/2/image/9df78eab33525d08d6e5fb8d27136e95/a/d/adidasshoe06.png",
+      "desc": "Adidas AG is a German multinational corporation, founded and headquartered in Herzogenaurach, Germany, that designs and manufactures shoes, clothing and accessories"
+    },
+    {
+      "id": 8,
+      "title": "Iphone",
+      "price": "100000",
+      "img": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone11-white-select-2019?wid=940&hei=1112&fmt=png-alpha&qlt=80&.v=1566956148115",
+      "desc": "Apple iPhone 11 Pro Max smartphone runs on iOS v13.0 operating system. The phone is powered by Hexa Core (2.65 GHz, Dual core, Lightning + 1.8 GHz, Quad core, Thunder) processor. It runs on the Apple A13 Bionic Chipset. It has 4 GB RAM and 64 GB internal storage."
+    },
+    {
+      "id": 9,
+      "title": "Mens Wear",
+      "price": "14000",
+      "img": "https://i.pinimg.com/originals/84/43/8c/84438c44f728079e3a1da539eacc7472.jpg",
+      "desc": "Mens Clothing - Shop from the latest collection of Apparels for Men Online in India. Choose from wide range of mens fashion apparels by top brands."
+    },
+    {
+      "id": 10,
+      "title": "Womens Wear",
+      "price": "16000",
+      "img": "https://i2.wp.com/www.connectmedia.online/wp-content/uploads/2018/02/5994106f390c679f98594c68f928db88-evening-dresses-maria-b-e1517567546297.jpg?fit=692%2C651",
+      "desc": "Buy women's clothing online at best prices from Amazon.in. Check out ethnic wear, formal wear, western wear, nightwear and lingerie from top brands."
+    },
+    {
+      "id": 11,
+      "title": "BMW",
+      "price": "14000000",
+      "img": "https://stimg.cardekho.com/images/carexteriorimages/630x420/BMW/X1/7625/1583398555726/front-left-side-47.jpg",
+      "desc": "On road price of base variant of BMW X1 in mumbai is ₹ 35.90 Lakh. On road price is made up of ex-showroom price, RTO registration, road tax and insurance amount. You can find the accurate on road price of BMW X1 in your mumbai using this link."
+    },
+    {
+      "id": 12,
+      "title": "Camera",
+      "price": "140000",
+      "img": "https://cdn11.bigcommerce.com/s-pkla4xn3/images/stencil/1280x1280/products/3517/25034/PROTAX-D7100-Digital-Camera-33MP-FHD-DSLR-Half-Professional-24x-Telephoto-Wide-Angle-Lens-sets-8X__35491.1519222047.jpg?c=2?imbypass=on",
+      "desc": "Canon PowerShot G1X Mark III (24.2 MP, 3x Optical Zoom, 12x Digital Zoom, Black). Be the first to Review this product. ₹64,999. ₹73,695."
     }
   ],
   "comments": [
